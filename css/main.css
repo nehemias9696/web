@@ -1639,6 +1639,7 @@ h1 {
   /* Estilos para pantallas pequeñas */
   h1 {
       font-size: 1.5em;
+      text-align:justify;
   }
 }
 
@@ -1646,6 +1647,7 @@ h1 {
   /* Estilos para pantallas medianas */
   h1 {
       font-size: 1.8em;
+      text-align:justify;
   }
 }
 
@@ -1653,6 +1655,7 @@ h1 {
   /* Estilos para pantallas grandes */
   h1 {
       font-size: 2em;
+      text-align:justify;
   }
 }
 
